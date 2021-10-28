@@ -1,35 +1,33 @@
 ---
 sidebar_position: 1
+title: Introduction
 ---
 
-# Tutorial Intro
+# Welcome to text ssg Docs
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Hello! Thanks for stopping by. Text ssg is a Static Site Generator in CLI that convert .txt and .md files into .html files.
 
-## Getting Started
+## Author
 
-Get started by **creating a new site**.
+👨‍💻 **Kevan Yang**
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- Github: [@Kevan-Y](https://github.com/Kevan-Y)
 
-## Generate a new site
+## Contributors
 
-Generate a new Docusaurus site using the **classic template**:
+<!-- |!(https://avatars.githubusercontent.com/u/58233223?s=60&v=4)| -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Kevan-Y"><img src="https://avatars.githubusercontent.com/u/58233223?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Kevan-Y</b></sub></a>
+    </td>
+    <td align="center"><a href="https://github.com/irenejoeunpark"><img src="https://avatars.githubusercontent.com/u/54859944?v=3?s=100" width="100px;" alt=""/><br /><sub><b>irenejoeunpark</b></sub></a>
+    </td>
+    <td align="center"><a href="https://github.com/DukeManh"><img src="https://avatars.githubusercontent.com/u/51073515?v=3?s=100" width="100px;" alt=""/><br /><sub><b>DukeManh</b></sub></a>
+    </td>
+  </tr>
+</table>
 
-```shell
-npm init docusaurus@latest my-website classic
-```
+## Show your support
 
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+Give a ⭐️ to this [project](https://github.com/Kevan-Y/text-ssg).
