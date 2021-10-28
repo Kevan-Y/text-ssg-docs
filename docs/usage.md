@@ -16,7 +16,7 @@ sidebar_position: 2
 - Full markdown support with highlight
 - Configuration support: User can specify multiple configuration in one json file and pass the file with `-c` or `--config`.
 
-## Usage
+## Command samples
 
 ```bash
 ssg --input <path>
@@ -39,7 +39,7 @@ ssg -i <path> -o <path> -s <URL> -l <languageCode>
 ```
 
 ```bash
-ssg -c <path> -i <path>
+ssg -c <path>
 ```
 
 ## Commands Supported
