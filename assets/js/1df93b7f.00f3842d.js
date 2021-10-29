@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktext_ssg_docs=self.webpackChunktext_ssg_docs||[]).push([[237],{9754:function(t,e,s){s.r(e),s.d(e,{default:function(){return u}});var n=s(7294),c=s(5977);function u(){return n.createElement(c.l_,{to:"/text-ssg-docs/docs/introduction"})}}}]);

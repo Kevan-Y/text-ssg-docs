@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktext_ssg_docs=self.webpackChunktext_ssg_docs||[]).push([[862],{1341:function(s){s.exports=JSON.parse('{"allTagsPath":"/text-ssg-docs/blog/tags","slug":"/text-ssg-docs/blog/tags/opensource","name":"opensource","count":4,"permalink":"/text-ssg-docs/blog/tags/opensource"}')}}]);

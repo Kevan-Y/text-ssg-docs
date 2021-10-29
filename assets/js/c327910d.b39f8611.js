@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktext_ssg_docs=self.webpackChunktext_ssg_docs||[]).push([[133],{72:function(s){s.exports=JSON.parse('{"allTagsPath":"/text-ssg-docs/blog/tags","slug":"/text-ssg-docs/blog/tags/beginners","name":"beginners","count":2,"permalink":"/text-ssg-docs/blog/tags/beginners"}')}}]);
